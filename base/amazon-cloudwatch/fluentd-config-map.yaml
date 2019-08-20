@@ -5,10 +5,10 @@ data:
   cluster-info.json: |
     {
       "cluster": {
-        "name": "{{ .ClusterName }}"
+        "name": "cluster-1"
       },
       "logs": {
-        "region": "{{ .Region }}"
+        "region": "eu-north-1"
       }
     }
 kind: ConfigMap

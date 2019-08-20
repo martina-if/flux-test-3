@@ -7,7 +7,7 @@ data:
       "structuredlogs": {
         "metrics_collected": {
           "kubernetes": {
-            "cluster_name": "{{ .ClusterName }}",
+            "cluster_name": "cluster-1",
             "metrics_collection_interval": 60
           }
         },
