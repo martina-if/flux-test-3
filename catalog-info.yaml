@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: C9
+  description: This is for scenario 9
+spec:
+  type: service
+  owner: user/martina
+  lifecycle: experimental
