@@ -5,7 +5,7 @@ metadata:
   name: case-8-bis
   annotations:
     github.com/project-slug: martina-if/test-repo
-  description: A test component that represents a repo
+  description: This description change happens after renaming the repo
 spec:
   type: service
   owner: user/martina
